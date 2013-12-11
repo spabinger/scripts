@@ -1,0 +1,1 @@
+/home/stephan/work/2012_12_Jatropha_NGBS/blast2go/01_filterGenesInFastaFile.py
